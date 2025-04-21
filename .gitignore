@@ -15,3 +15,5 @@ composer.lock
 node_modules/
 package-lock.json
 package.json
+.travis.yml
+codealike.json
